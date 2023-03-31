@@ -1,0 +1,59 @@
+{
+  "products": [
+    {
+      "name": "Nhẫn kim cương nam vàng trắng 18k CH N007",
+      "hour": 15,
+      "date": "29/11/2022",
+      "start": 55,
+      "time": "1",
+      "end": 56,
+      "price": "10000",
+      "owner": "admin0",
+      "is_bidded": true
+    },
+    {
+      "name": "Tai nghe Apple Airpod 3 - New version 2022",
+      "hour": 16,
+      "date": "29/11/2022",
+      "start": 21,
+      "time": "3",
+      "end": 25,
+      "price": "999",
+      "owner": "admin0",
+      "is_bidded": true
+    },
+    {
+      "name": "Iphone 12",
+      "hour": 0,
+      "date": "14/03/2023",
+      "start": 24,
+      "time": "1",
+      "end": 25,
+      "price": "1",
+      "owner": "user1",
+      "is_bidded": false
+    }
+  ],
+  "users": [
+    {
+      "username": "user1",
+      "password": "123456",
+      "balence": 601123
+    },
+    {
+      "username": "user2",
+      "password": "123456",
+      "balence": 100000
+    },
+    {
+      "username": "nhom3_ltm",
+      "password": "121212",
+      "balence": 0
+    },
+    {
+      "username": "nhom03_test",
+      "password": "121212a",
+      "balence": 0
+    }
+  ]
+}
